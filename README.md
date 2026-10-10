@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/eye-open.svg" alt="Insomnia: an open eye with a round pupil and five lashes above it" width="112">
+  <img src="/eye-open.svg" alt="Insomnia: an open eye with a round pupil and five lashes above it" width="112">
 </p>
 
 <h1 align="center">Insomnia</h1>
